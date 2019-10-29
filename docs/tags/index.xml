@@ -2,84 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on NIAM 2020</title>
-    <link>/niam-2019/tags/</link>
+    <link>/niam-2020-website/tags/</link>
     <description>Recent content in Tags on NIAM 2020</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
     
-	<atom:link href="/niam-2019/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/niam-2020-website/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ipsum</title>
-      <link>/niam-2019/tags/ipsum/</link>
+      <link>/niam-2020-website/tags/ipsum/</link>
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
-      <guid>/niam-2019/tags/ipsum/</guid>
+      <guid>/niam-2020-website/tags/ipsum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>/niam-2019/tags/hugo/</link>
+      <link>/niam-2020-website/tags/hugo/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
-      <guid>/niam-2019/tags/hugo/</guid>
+      <guid>/niam-2020-website/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>/niam-2019/tags/r-markdown/</link>
+      <link>/niam-2020-website/tags/r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/niam-2019/tags/r-markdown/</guid>
+      <guid>/niam-2020-website/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>plot</title>
-      <link>/niam-2019/tags/plot/</link>
+      <link>/niam-2020-website/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/niam-2019/tags/plot/</guid>
+      <guid>/niam-2020-website/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>regression</title>
-      <link>/niam-2019/tags/regression/</link>
+      <link>/niam-2020-website/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/niam-2019/tags/regression/</guid>
+      <guid>/niam-2020-website/tags/regression/</guid>
       <description></description>
     </item>
     
     <item>
       <title>theme</title>
-      <link>/niam-2019/tags/theme/</link>
+      <link>/niam-2020-website/tags/theme/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
       
-      <guid>/niam-2019/tags/theme/</guid>
+      <guid>/niam-2020-website/tags/theme/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>/niam-2019/tags/golang/</link>
+      <link>/niam-2020-website/tags/golang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/niam-2019/tags/golang/</guid>
+      <guid>/niam-2020-website/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>programming</title>
-      <link>/niam-2019/tags/programming/</link>
+      <link>/niam-2020-website/tags/programming/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/niam-2019/tags/programming/</guid>
+      <guid>/niam-2020-website/tags/programming/</guid>
       <description></description>
     </item>
     

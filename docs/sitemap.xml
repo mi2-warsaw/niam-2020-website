@@ -3,131 +3,131 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/niam-2019/blog/</loc>
+    <loc>/niam-2020-website/blog/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/niam-2019/categories/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/niam-2019/blog/migrate-from-jekyll/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/niam-2019/</loc>
+    <loc>/niam-2020-website/categories/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/niam-2019/tags/</loc>
+    <loc>/niam-2020-website/blog/migrate-from-jekyll/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/niam-2020-website/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/niam-2019/tags/ipsum/</loc>
+    <loc>/niam-2020-website/tags/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/niam-2019/categories/lorem/</loc>
+    <loc>/niam-2020-website/tags/ipsum/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/niam-2019/blog/hugo-is-for-lovers/</loc>
+    <loc>/niam-2020-website/categories/lorem/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/niam-2020-website/blog/hugo-is-for-lovers/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/niam-2019/tags/hugo/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/niam-2019/categories/pseudo/</loc>
+    <loc>/niam-2020-website/tags/hugo/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/niam-2019/blog/2015-07-23-r-rmarkdown/</loc>
+    <loc>/niam-2020-website/categories/pseudo/</loc>
+    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/niam-2020-website/blog/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/niam-2019/categories/r/</loc>
+    <loc>/niam-2020-website/categories/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/niam-2019/tags/r-markdown/</loc>
+    <loc>/niam-2020-website/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/niam-2019/tags/plot/</loc>
+    <loc>/niam-2020-website/tags/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/niam-2019/tags/regression/</loc>
+    <loc>/niam-2020-website/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/niam-2019/blog/creating-a-new-theme/</loc>
+    <loc>/niam-2020-website/blog/creating-a-new-theme/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/niam-2019/categories/starting/</loc>
+    <loc>/niam-2020-website/categories/starting/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/niam-2019/tags/theme/</loc>
+    <loc>/niam-2020-website/tags/theme/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/niam-2019/contact/</loc>
+    <loc>/niam-2020-website/contact/</loc>
   </url>
   
   <url>
-    <loc>/niam-2019/blog/installation/</loc>
+    <loc>/niam-2020-website/blog/installation/</loc>
   </url>
   
   <url>
-    <loc>/niam-2019/service/</loc>
+    <loc>/niam-2020-website/service/</loc>
   </url>
   
   <url>
-    <loc>/niam-2019/work/</loc>
+    <loc>/niam-2020-website/work/</loc>
   </url>
   
   <url>
-    <loc>/niam-2019/tags/golang/</loc>
+    <loc>/niam-2020-website/tags/golang/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/niam-2019/tags/programming/</loc>
+    <loc>/niam-2020-website/tags/programming/</loc>
     <priority>0</priority>
   </url>
   
