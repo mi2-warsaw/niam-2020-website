@@ -1,0 +1,43 @@
+enable: true
+title: Facts about NIAM 2019
+paragraph: >
+  First workshop 
+  
+number:
+  enable : true
+numbers:
+  - counter: 4
+    text: Thematic sessions
+  - counter: 30
+    text: Flash talks and posters
+  - counter: 3
+    text: Days
+
+
+peoples:
+  enable : false
+people:
+  - text: >
+      This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd.
+    quoteImg: img/cotation.png    
+    image: img/item-img1.jpg
+    name: Rose Ray
+    role: CEO-Themefisher
+  - text: >
+      This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd.
+    quoteImg: img/cotation.png
+    image: img/item-img1.jpg
+    name: Rose Ray
+    role: CEO-Themefisher
+  - text: >
+      This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd.
+    quoteImg: img/cotation.png
+    image: img/cotation.jpg
+    name: Rose Ray
+    role: CEO-Themefisher
+  - text: >
+      This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd.
+    quoteImg: img/cotation.png
+    image: img/item-img1.jpg
+    name: Rose Ray
+    role: CEO-Themefisher

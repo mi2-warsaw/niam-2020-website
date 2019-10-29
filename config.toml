@@ -1,0 +1,67 @@
+title = "NIAM 2020"
+baseURL = "https://agosiewska.github.io/niam-2019/"
+languageCode = "en-us"
+theme = "airspace-hugo"
+
+publishDir = "docs"
+
+# The site's parameters
+[params]
+
+  [params.slider]
+    enable = true
+    title = "NIAM 2020 - Navigated, Interpretable, and Automated Machine learning"
+    subtitle = "Warsaw, 22-24 April 2020"
+    bgImage = "img/slider-bg.jpg"
+
+  [params.wrapper]
+    enable = true
+    image = "img/wrapper-img.png"
+    title = "About NIAM 2020 Workshop"
+    italic = "Warsaw, 22-24 April 2020"
+    paragraph = """The aim of the workshop is to integrate scientific communities interested in Navigated, Interpretable, and Automated Machine Learning. 
+    NIAM is a place for discussion and learning the most recent advances in the above areas. \\
+    The essence of the workshop are poster sessions preceded by short (3-5 min) flash talks and also small group activities and discussions.
+    To enhance networking and exchange of experience, we plan to focus this event on specific areas of ML and to keep it relatively small (around 30 participants).
+    <br />
+    <br />
+    The subject areas of NIAM include, but are not limited to: \\
+    - Navigated Machine Learning, \\
+    - Interpretable Machine, \\
+    - Automated Machine Learning, \\
+    - Automated Machine Learning, \\
+    - Evidence-Based Machine Learning. """
+
+
+  [params.feature]
+    enable = true
+    title = "Important dates"
+    bgImage = "img/feature-bg.jpg"
+    content = """06.12.2019 - Call for poster + flashtalk open \\
+              06.02.2020 -  Call for poster + flashtalk deadline \\
+              22-24.04.2020 -  NIAM Workshop"""
+    [params.feature.button]
+      caption = "View details (soon)"
+      url = "#"
+
+  [params.call]
+    enable = true
+    bgImage = "img/call-to-action-bg.jpg"
+    title = "Registration"
+    paragraph = "Opens on December 2019"
+    [params.call.button]
+      url = "#"
+      text = "Register"
+
+  [params.wrapper2]
+    enable = true
+    title = "Organizators"
+    organizer1 = "Przemysław Biecek"
+    image1 = "img/przemek.png"
+    organizer2 = "Alicja Gosiewska"
+    image2 = "img/alicja.png"
+    organizer3 = "Anna Kozak"
+    image3 = "img/ania.png"
+    
+    
+    

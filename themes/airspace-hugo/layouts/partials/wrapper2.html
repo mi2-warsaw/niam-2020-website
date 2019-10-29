@@ -1,0 +1,38 @@
+<!-- Wrapper Start -->
+<section id="intro">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 col-sm-12">
+        <div class="section-title">
+          <h2>{{ .Site.Params.wrapper2.title }}</h2>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-4 col-sm-12">
+        <div class="block">
+         <img style = "width:70%; margin-left: 10%;" src="{{ with .Site.Params.wrapper2.image1 }} {{ . | absURL }} {{ end }}" alt="Img">
+        </div>
+        <div class="block">
+          <h2 style="text-align: center;">{{ .Site.Params.wrapper2.organizer1 }}</h2>
+        </div>
+      </div><!-- .col-md-4 close -->
+      <div class="col-md-4 col-sm-12">
+        <div class="block">
+         <img style = "width:70%; margin-left: 10%;" src="{{ with .Site.Params.wrapper2.image2 }} {{ . | absURL }} {{ end }}" alt="Img">
+        </div>
+        <div class="block">
+          <h2 style="text-align: center;">{{ .Site.Params.wrapper2.organizer2 }}</h2>
+        </div>
+      </div><!-- .col-md-4 close -->
+      <div class="col-md-4 col-sm-12">
+        <div class="block">
+         <img style = "width:70%; margin-left: 10%;" src="{{ with .Site.Params.wrapper2.image3 }} {{ . | absURL }} {{ end }}" alt="Img">
+        </div>
+        <div class="block">
+          <h2 style="text-align: center;">{{ .Site.Params.wrapper2.organizer3 }}</h2>
+        </div>
+      </div><!-- .col-md-4 close -->
+    </div>
+  </div>
+</section>
