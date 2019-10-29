@@ -27,9 +27,9 @@ publishDir = "docs"
     <br />
     The subject areas of NIAM include, but are not limited to: \\
     - Navigated Machine Learning, \\
-    - Interpretable Machine, \\
+    - Interpretable Machine Learning, \\
     - Automated Machine Learning, \\
-    - Automated Machine Learning, \\
+    - Meta Learning, \\
     - Evidence-Based Machine Learning. """
 
 
