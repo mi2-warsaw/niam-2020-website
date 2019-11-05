@@ -66,7 +66,7 @@ publishDir = "docs"
   [params.wrapper2]
     enable = true
     title = "Organizers"
-    organizer1 = "Przemysław Biecek"
+    organizer1 = "Prof. Przemysław Biecek"
     image1 = "img/przemek.png"
     organizer2 = "Alicja Gosiewska"
     image2 = "img/alicja.png"
