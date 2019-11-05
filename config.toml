@@ -3,6 +3,8 @@ baseURL = "https://mi2-warsaw.github.io/niam-2020-website/"
 languageCode = "en-us"
 theme = "airspace-hugo"
 
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
 publishDir = "docs"
 
 # The site's parameters
@@ -26,23 +28,24 @@ publishDir = "docs"
     <br />
     <br />
     The subject areas of NIAM include, but are not limited to: \\
-    - Navigated Machine Learning, \\
-    - Interpretable Machine Learning, \\
-    - Automated Machine Learning, \\
-    - Meta Learning, \\
-    - Evidence-Based Machine Learning. """
+    - <b><font size="5">N</font>avigated Machine Learning.</b> All topics related to navigating the hyperparameter tuning procedure. \\
+    - <b><font size="5">I</font>nterpretable Machine Learning.</b> Techniques for explaining black-box models and training accurate interpretable glass-box models.  \\
+    - <b><font size="5">A</font>utomated Machine Learning.</b> Methods for quickly and easily building highly accurate models. \\
+    - <b><font size="5">M</font>achine Learning as a data-oriented service.</b> All ML-related topics, including Meta-Learning and Evidence-Based Machine Learning. """
 
 
   [params.feature]
     enable = true
     title = "Important dates"
     bgImage = "img/feature-bg.jpg"
-    content = """06.12.2019 - Call for poster + flashtalk open \\
+    content = """06.12.2019 - Call for poster + flashtalk opens \\
               06.02.2020 -  Call for poster + flashtalk deadline \\
-              22-24.04.2020 -  NIAM Workshop"""
-    [params.feature.button]
-      caption = "View details (soon)"
-      url = "#"
+              09.03.2020 - 	Author Notification \\
+              31.03.2020 - Registration closes \\
+              22 - 24.04.2020 -  NIAM Workshop"""
+#  [params.feature.button]
+#      caption = "View details (soon)"
+#      url = "#"
 
   [params.call]
     enable = true
@@ -55,7 +58,7 @@ publishDir = "docs"
 
   [params.wrapper2]
     enable = true
-    title = "Organizators"
+    title = "Organizers"
     organizer1 = "Przemysław Biecek"
     image1 = "img/przemek.png"
     organizer2 = "Alicja Gosiewska"
