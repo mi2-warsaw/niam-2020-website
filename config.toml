@@ -36,13 +36,20 @@ publishDir = "docs"
 
   [params.feature]
     enable = true
-    title = "Important dates"
+    title = "More Info"
     bgImage = "img/feature-bg.jpg"
-    content = """06.12.2019 - Call for poster + flashtalk opens \\
+    content = """ <font size="5">Important dates</font> \\
+              06.12.2019 - Call for poster + flashtalk opens \\
               06.02.2020 -  Call for poster + flashtalk deadline \\
               09.03.2020 - 	Author Notification \\
               31.03.2020 - Registration closes \\
-              22 - 24.04.2020 -  NIAM Workshop"""
+              22 - 24.04.2020 -  NIAM Workshop  
+              <br>
+              <font size="5">Venue</font> \\
+              Faculty of Mathematics and Information Science \\
+              ul. Koszykowa 75 \\
+              00-662 Warsaw, Poland \\
+              """
 #  [params.feature.button]
 #      caption = "View details (soon)"
 #      url = "#"
