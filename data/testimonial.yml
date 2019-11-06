@@ -1,17 +1,17 @@
 enable: true
 title: Facts about NIAM 2020
 paragraph: >
-  The first edition of NIAM
+  The first international edition of NIAM
   
 number:
   enable : true
 numbers:
   - counter: 4
     text: Thematic sessions
-  - counter: 30
+  - counter: 20
     text: Flash talks and posters
-  - counter: 3
-    text: Days
+  - counter: 2
+    text: Breakout sessions
 
 
 peoples:

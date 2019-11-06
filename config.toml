@@ -19,7 +19,7 @@ publishDir = "docs"
   [params.wrapper]
     enable = true
     image = "img/wrapper-img.png"
-    title = "About NIAM 2020 Workshop"
+    title = "First International NIAM Workshop"
     italic = "Warsaw, 22-24 April 2020"
     paragraph = """The aim of the workshop is to integrate scientific communities interested in Navigated, Interpretable, and Automated Machine Learning. 
     NIAM is a place for discussion and learning the most recent advances in the above areas. \\
@@ -36,20 +36,18 @@ publishDir = "docs"
 
   [params.feature]
     enable = true
-    title = "More Info"
     bgImage = "img/feature-bg.jpg"
-    content = """ <font size="5">Important dates</font> \\
-              06.12.2019 - Call for poster + flashtalk opens \\
+    title = "Important dates"
+    content = """06.12.2019 - Call for poster + flashtalk opens \\
               06.02.2020 -  Call for poster + flashtalk deadline \\
               09.03.2020 - 	Author Notification \\
               31.03.2020 - Registration closes \\
-              22 - 24.04.2020 -  NIAM Workshop  
-              <br>
-              <font size="5">Venue</font> \\
-              Faculty of Mathematics and Information Science \\
+              22 - 24.04.2020 -  NIAM Workshop  """
+    title2 = "Venue"
+    content2 = """Faculty of Mathematics and Information Science \\
               ul. Koszykowa 75 \\
-              00-662 Warsaw, Poland \\
-              """
+              00-662 Warsaw, Poland \\"""
+   
 #  [params.feature.button]
 #      caption = "View details (soon)"
 #      url = "#"
@@ -66,12 +64,19 @@ publishDir = "docs"
   [params.wrapper2]
     enable = true
     title = "Organizers"
-    organizer1 = "Prof. Przemysław Biecek"
+    organizer1 = "Przemysław Biecek"
     image1 = "img/przemek.png"
+    github1 = "https://github.com/pbiecek"
+    linkedin1 = "https://www.linkedin.com/in/pbiecek/"
+    website1 = "http://biecek.pl/"
     organizer2 = "Alicja Gosiewska"
     image2 = "img/alicja.png"
+    github2 = "https://github.com/agosiewska"
+    linkedin2 = "https://www.linkedin.com/in/alicja-gosiewska/"
+    website2 = "http://gosiewska.com/"
     organizer3 = "Anna Kozak"
     image3 = "img/ania.png"
-    
+    github3 = "https://github.com/kozaka93"
+    linkedin3 = "https://www.linkedin.com/in/anna-kozak-a45687116/"
     
     
