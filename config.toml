@@ -13,14 +13,14 @@ publishDir = "docs"
   [params.slider]
     enable = true
     title = "NIAM 2020 - Navigated, Interpretable, and Automated Machine learning"
-    subtitle = "Warsaw, 22-24 April 2020"
+    subtitle = "Warsaw, 16-18 April 2020"
     bgImage = "img/slider-bg.jpg"
 
   [params.wrapper]
     enable = true
     image = "img/wrapper-img.png"
     title = "First International NIAM Workshop"
-    italic = "Warsaw, 22-24 April 2020"
+    italic = "Warsaw, 16-18 April 2020"
     paragraph = """The aim of the workshop is to integrate scientific communities interested in Navigated, Interpretable, and Automated Machine Learning. 
     NIAM is a place for discussion and learning the most recent advances in the above areas. \\
     The essence of the workshop are poster sessions preceded by short (3-5 min) flash talks and also small group activities and discussions.
@@ -42,7 +42,7 @@ publishDir = "docs"
               06.02.2020 -  Call for poster + flashtalk deadline \\
               09.03.2020 - 	Author Notification \\
               31.03.2020 - Registration closes \\
-              22 - 24.04.2020 -  NIAM Workshop  """
+              16-18.04.2020 -  NIAM Workshop  """
     title2 = "Venue"
     content2 = """Faculty of Mathematics and Information Science \\
               ul. Koszykowa 75 \\

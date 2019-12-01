@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NIAM 2020</title>
-    <link>https://mi2-warsaw.github.io/niam-2020-website/</link>
+    <link>/niam-2020-website/</link>
     <description>Recent content on NIAM 2020</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
     
-	<atom:link href="https://mi2-warsaw.github.io/niam-2020-website/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/niam-2020-website/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Migrate from Jekyll</title>
-      <link>https://mi2-warsaw.github.io/niam-2020-website/blog/migrate-from-jekyll/</link>
+      <link>/niam-2020-website/blog/migrate-from-jekyll/</link>
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
-      <guid>https://mi2-warsaw.github.io/niam-2020-website/blog/migrate-from-jekyll/</guid>
+      <guid>/niam-2020-website/blog/migrate-from-jekyll/</guid>
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
@@ -24,10 +24,10 @@
     
     <item>
       <title>Hugo is for lovers</title>
-      <link>https://mi2-warsaw.github.io/niam-2020-website/blog/hugo-is-for-lovers/</link>
+      <link>/niam-2020-website/blog/hugo-is-for-lovers/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
-      <guid>https://mi2-warsaw.github.io/niam-2020-website/blog/hugo-is-for-lovers/</guid>
+      <guid>/niam-2020-website/blog/hugo-is-for-lovers/</guid>
       <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
 Save it somewhere specific as we will be using it in the next step.
 More complete instructions are available at installing hugo
@@ -38,10 +38,10 @@ Follow the following steps:
     
     <item>
       <title>Hello R Markdown</title>
-      <link>https://mi2-warsaw.github.io/niam-2020-website/blog/2015-07-23-r-rmarkdown/</link>
+      <link>/niam-2020-website/blog/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://mi2-warsaw.github.io/niam-2020-website/blog/2015-07-23-r-rmarkdown/</guid>
+      <guid>/niam-2020-website/blog/2015-07-23-r-rmarkdown/</guid>
       <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
@@ -49,29 +49,29 @@ summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     
     <item>
       <title>Creating a new theme</title>
-      <link>https://mi2-warsaw.github.io/niam-2020-website/blog/creating-a-new-theme/</link>
+      <link>/niam-2020-website/blog/creating-a-new-theme/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
       
-      <guid>https://mi2-warsaw.github.io/niam-2020-website/blog/creating-a-new-theme/</guid>
+      <guid>/niam-2020-website/blog/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://mi2-warsaw.github.io/niam-2020-website/contact/</link>
+      <link>/niam-2020-website/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mi2-warsaw.github.io/niam-2020-website/contact/</guid>
+      <guid>/niam-2020-website/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How To Setup Airspace Hugo</title>
-      <link>https://mi2-warsaw.github.io/niam-2020-website/blog/installation/</link>
+      <link>/niam-2020-website/blog/installation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mi2-warsaw.github.io/niam-2020-website/blog/installation/</guid>
+      <guid>/niam-2020-website/blog/installation/</guid>
       <description>Install this template by following those simple steps: STEP-1 : Hugo installation Check this link below for install hugo on your computer. hugo install documentation
 STEP-2 : Create your project Hugo provides a new command to create a new website.
 hugo new site &amp;lt;new_project&amp;gt;  STEP-3 : Install the theme Run this command
@@ -80,19 +80,19 @@ hugo new site airspace-hugo  and then go to the themes folder inside of airspace
     
     <item>
       <title>Service</title>
-      <link>https://mi2-warsaw.github.io/niam-2020-website/service/</link>
+      <link>/niam-2020-website/service/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mi2-warsaw.github.io/niam-2020-website/service/</guid>
+      <guid>/niam-2020-website/service/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Work</title>
-      <link>https://mi2-warsaw.github.io/niam-2020-website/work/</link>
+      <link>/niam-2020-website/work/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mi2-warsaw.github.io/niam-2020-website/work/</guid>
+      <guid>/niam-2020-website/work/</guid>
       <description></description>
     </item>
     
