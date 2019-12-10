@@ -38,9 +38,7 @@ publishDir = "docs"
     enable = true
     bgImage = "img/feature-bg.jpg"
     title = "Important dates"
-    content = """06.12.2019 - Call for poster + flashtalk opens \\
-              06.02.2020 -  Call for poster + flashtalk deadline \\
-              09.03.2020 - 	Author Notification \\
+    content = """06.12.2019 - Registration opens \\
               31.03.2020 - Registration closes \\
               16-18.04.2020 -  NIAM Workshop  """
     title2 = "Venue"
@@ -56,9 +54,9 @@ publishDir = "docs"
     enable = true
     bgImage = "img/call-to-action-bg.jpg"
     title = "Registration"
-    paragraph = "Opens on December 2019"
+    paragraph = "Ends in March 2020"
     [params.call.button]
-      url = "#"
+      url = "https://forms.gle/HxjK1ttjdyiRw3uT6"
       text = "Register"
 
   [params.wrapper2]
