@@ -54,7 +54,7 @@ publishDir = "docs"
     enable = true
     bgImage = "img/call-to-action-bg.jpg"
     title = "Registration"
-    paragraph = "Ends in March 2020"
+    paragraph = """Ends in March 2020 and there is no registration fee"""
     [params.call.button]
       url = "https://forms.gle/HxjK1ttjdyiRw3uT6"
       text = "Register"
