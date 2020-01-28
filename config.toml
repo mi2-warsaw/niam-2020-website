@@ -46,10 +46,6 @@ publishDir = "docs"
               ul. Koszykowa 75 \\
               00-662 Warsaw, Poland \\"""
    
-#  [params.feature.button]
-#      caption = "View details (soon)"
-#      url = "#"
-
   [params.call]
     enable = true
     bgImage = "img/call-to-action-bg.jpg"
@@ -58,6 +54,16 @@ publishDir = "docs"
     [params.call.button]
       url = "https://forms.gle/HxjK1ttjdyiRw3uT6"
       text = "Register"
+
+
+ [params.plan]
+    enable = true
+    image = "img/niam_plan.png"
+    title = "Conference Schedule"
+    italic = "The plan is only approximate and may change depending on the number of applications for each session."
+    paragraph = """  """
+
+
 
   [params.wrapper2]
     enable = true

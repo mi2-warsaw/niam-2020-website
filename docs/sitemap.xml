@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -10,7 +10,16 @@
   <url>
     <loc>/niam-2020-website/categories/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/niam-2020-website/tags/ipsum/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/niam-2020-website/categories/lorem/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
   </url>
   
   <url>
@@ -21,25 +30,16 @@
   <url>
     <loc>/niam-2020-website/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/niam-2020-website/tags/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/niam-2020-website/tags/ipsum/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/niam-2020-website/categories/lorem/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
-    <priority>0</priority>
+    <loc>/niam-2020-website/tags/hugo/</loc>
+    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
   </url>
   
   <url>
@@ -48,15 +48,8 @@
   </url>
   
   <url>
-    <loc>/niam-2020-website/tags/hugo/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/niam-2020-website/categories/pseudo/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -65,27 +58,23 @@
   </url>
   
   <url>
+    <loc>/niam-2020-website/tags/plot/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/niam-2020-website/categories/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/niam-2020-website/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/niam-2020-website/tags/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/niam-2020-website/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -96,13 +85,11 @@
   <url>
     <loc>/niam-2020-website/categories/starting/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/niam-2020-website/tags/theme/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -110,7 +97,15 @@
   </url>
   
   <url>
+    <loc>/niam-2020-website/tags/golang/</loc>
+  </url>
+  
+  <url>
     <loc>/niam-2020-website/blog/installation/</loc>
+  </url>
+  
+  <url>
+    <loc>/niam-2020-website/tags/programming/</loc>
   </url>
   
   <url>
@@ -119,16 +114,6 @@
   
   <url>
     <loc>/niam-2020-website/work/</loc>
-  </url>
-  
-  <url>
-    <loc>/niam-2020-website/tags/golang/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/niam-2020-website/tags/programming/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>

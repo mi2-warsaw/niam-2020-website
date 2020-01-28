@@ -1,0 +1,23 @@
+<!-- Wrapper Start -->
+<section id="intro">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 col-sm-12">
+        <div class="block">
+          <div class="section-title">
+            <h2>{{ .Site.Params.plan.title }}</h2>
+            <p>{{ .Site.Params.plan.italic }}</p>
+          </div>
+          <p>{{ .Site.Params.plan.paragraph | markdownify }}</p>
+        </div>
+      </div><!-- .col-md-7 close -->
+    </div>
+    <div class="row">
+      <div class="col-md-12 col-sm-12">
+        <div class="block">
+         <img src="{{ with .Site.Params.plan.image }} {{ . | absURL }} {{ end }}" alt="Img">
+        </div>
+      </div><!-- .col-md-5 close -->
+    </div>
+  </div>
+</section>
