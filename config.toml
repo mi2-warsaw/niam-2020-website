@@ -65,7 +65,7 @@ unsafe= true
     title = "Conference Schedule"
     italic = "The plan is only approximate and may change depending on the number of applications for each session."
     paragraph = """ The <b>Work Together Sessions</b> are discussions in smaller groups. We propose some discussion topics:  \\
-    - <b>XAI:</b> success stories in finances or medicine, fairness/bias, overpromise, risks, limitations, NLP vs Vision vs tabular,  myths.\\
+    - <b>XAI:</b> success stories in finances or medicine, fairness/bias, overpromise, risks, limitations, NLP vs Vision vs tabular,  myths, XAI-challenge.\\
     - <b>AutoML:</b> overpromise, limitations, applications for ML/XAI/EDA, resources in industry vs academia. \\
     - <b>NIAM</b> ideas for next meeting and collaboration.\\
     Yet, we are open for other topics.
