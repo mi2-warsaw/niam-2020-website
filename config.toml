@@ -7,6 +7,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 publishDir = "docs"
 
+[markup.goldmark.renderer]
+unsafe= true
+
 # The site's parameters
 [params]
 
@@ -50,7 +53,7 @@ publishDir = "docs"
     enable = true
     bgImage = "img/call-to-action-bg.jpg"
     title = "Registration"
-    paragraph = """Ends in March 2020 and there is no registration fee"""
+    paragraph = """Ends in March 2020 and there is no registration fee.  Unfortunately, we cannnot offer travel and accomodation support."""
     [params.call.button]
       url = "https://forms.gle/HxjK1ttjdyiRw3uT6"
       text = "Register"
@@ -61,7 +64,15 @@ publishDir = "docs"
     image = "img/niam_plan.png"
     title = "Conference Schedule"
     italic = "The plan is only approximate and may change depending on the number of applications for each session."
-    paragraph = """  """
+    paragraph = """ The <b>Work Together Sessions</b> are discussions in smaller groups. We propose some discussion topics:  \\
+    - <b>XAI:</b> success stories in finances or medicine, fairness/bias, overpromise, risks, limitations, NLP vs Vision vs tabular,  myths.\\
+    - <b>AutoML:</b> overpromise, limitations, applications for ML/XAI/EDA, resources in industry vs academia. \\
+    - <b>NIAM</b> ideas for next meeting and collaboration.\\
+    Yet, we are open for other ideas.
+    <br />
+    <br />
+    The <b>Poster Sessions</b> are intended that we get to know each other's research topics. 
+    Please, feel free to bring posters shown during other conferences."""
 
 
 
